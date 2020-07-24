@@ -6,6 +6,7 @@ This project works on the concepts of machine learning and is able to detect whe
 * Install Tensorflow using `pip install tensorflow`.
 * Install OpenCV using `pip install opencv-python` and `pip install opencv-contrib-python`.
 * Install Keras using `pip install keras`.
+* Install Numpy using `pip install numpy`.
 
 
 ## About the Dataset
