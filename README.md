@@ -25,7 +25,7 @@ The model can be trained using the train_mask_detector.py script using the follo
     
 ### Accuracy and Loss Curves
 <p align="center">
-<img src="plot.png">
+<img src="plot.png" width="450" height="350">
 </p>
 
 ## Inference
@@ -36,5 +36,5 @@ Inference can be performed by using the inference.py script using the following 
 ## Results
 See for yourself !
 <p align="center">
-<img src="result.gif">
+<img src="result.gif" width="450" height="350">
 </p>
