@@ -1,5 +1,4 @@
-# COVID 19 Face Mask Detector
-[![Made with Python](https://img.shields.io/badge/python-3.5.2-grey?style=for-the-badge&labelColor=yellow&logo=python)](https://www.python.org/)
+# COVID 19 Face Mask Detector [![Made with Python](https://img.shields.io/badge/python-3.5.2-grey?style=for-the-badge&labelColor=yellow&logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.1-grey?style=for-the-badge&labelColor=blue&logo=tensorflow)](https://www.tensorflow.org/)<br>
 
 ### What is this project?
