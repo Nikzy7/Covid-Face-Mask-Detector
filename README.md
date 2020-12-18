@@ -1,5 +1,4 @@
-# COVID 19 Face Mask Detector [![Made with Python](https://img.shields.io/badge/python-3.5.2-grey?style=for-the-badge&labelColor=yellow&logo=python)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.1-grey?style=for-the-badge&labelColor=blue&logo=tensorflow)](https://www.tensorflow.org/)<br>
+# COVID 19 Face Mask Detector [![Made with Python](https://img.shields.io/badge/python-3.5.2-grey?style=for-the-badge&labelColor=yellow&logo=python)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.1-grey?style=for-the-badge&labelColor=blue&logo=tensorflow)](https://www.tensorflow.org/)<br>
 
 ### What is this project?
 This project works on the concepts of machine learning and is able to detect whether a person, in front of the camera (Real-Time VideoFeed), is wearing a mask or not. The primary objective to create this project is to make and Edge AI device (Nvidia Jetson Nano) that can be placed in crowded areas or shops to warn the owners of any possible threats in the "NEW NORMAL".
